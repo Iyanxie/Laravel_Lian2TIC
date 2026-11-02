@@ -417,7 +417,7 @@
                                                 </form>
                                             </td>
                                         </tr>
-                                    @endforeach
+                                    @endforeacha
                                 </tbody>
                             </table>
                         </div>
