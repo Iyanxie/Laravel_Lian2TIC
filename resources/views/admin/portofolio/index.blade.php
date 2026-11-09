@@ -6,8 +6,11 @@
     <title>Volt - Daftar Portofolio & CV</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    {{-- start css --}}
     <!-- Volt CSS -->
     <link type="text/css" href="{{ asset('assets-admin/css/volt.css') }}" rel="stylesheet">
+    {{-- end css --}}
+
 </head>
 
 <body class="bg-gray-100">
